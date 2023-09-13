@@ -16,7 +16,7 @@ Skills: HTML / CSS / Bootstrap / Tailwind CSS / SCSS / React JS/ React Router / 
   
   
   
-
+<br><br>
 
 
   
@@ -27,5 +27,5 @@ Skills: HTML / CSS / Bootstrap / Tailwind CSS / SCSS / React JS/ React Router / 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/chandansenbu@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="[chandansenbu@gmail.com](https://web-developer-chandan.netlify.app/)" /></a></p><br><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Developer-chandan)  
+
 
