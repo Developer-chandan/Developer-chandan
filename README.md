@@ -2,12 +2,12 @@
 ## Hi there 👋, 
 
 It is my pleasure to introduce myself as Chandan Sen, a freelance Front End Web Developer. As a front-end developer, I find it very interesting to write code. In addition to searching the internet and learning new technologies quickly, I've expert hand on problem-solving also. My Expertise is HTML5, CSS3, SCSS, Bootstrap 4/5, Tailwind CSS, Vanilla JS, React JS, Vite, Firebase, React Router MongoDB and Basic of Node JS. Currently, I'm exploring Typescript and Next.js to make my front-end development skills more productive.
-
+<br>
 Skills: HTML / CSS / Bootstrap / Tailwind CSS / SCSS / React JS/ React Router / Firebase / Basic MongoDB / Basic Node Js
 
 - 🌱 I’m currently learning TypeScript and Next JS to boost up my front end development skills 
 - 💬 Ask me about Front end development 
-
+<br><br>
 <h3 align="left">Expertise Languages:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
